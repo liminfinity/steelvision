@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+pillow
+opencv-python
+onnx
+onnxruntime
+numpy
+pandas

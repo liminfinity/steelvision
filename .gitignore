@@ -1,0 +1,42 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== Virtual Environments =====
+venv/
+.env/
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== Streamlit =====
+.streamlit/
+
+# ===== YOLO / Ultralytics =====
+runs/
+wandb/
+
+# ===== Models (не храним в Git) =====
+models/*.pt
+models/*.onnx
+
+# ===== Datasets =====
+data/
+datasets/
+neu_det/
+NEU-DET/
+train/
+validation/
+
+# ===== Jupyter / Colab =====
+.ipynb_checkpoints/
+
+# ===== Logs =====
+*.log
+
+# ===== Temporary files =====
+temp/
+tmp/
