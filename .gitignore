@@ -19,9 +19,8 @@ Thumbs.db
 runs/
 wandb/
 
-# ===== Models (не храним в Git) =====
+# ===== Models =====
 models/*.pt
-models/*.onnx
 
 # ===== Datasets =====
 data/
