@@ -18,6 +18,9 @@ SteelVision — система автоматизации визуального
 
 # 🔍 **Датасет NEU-DET**
 
+**Источник датасета:**  
+📎 [NEU Surface Defect Database — Kaggle](https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database)
+
 * 1800 изображений размера 200×200
 * 6 классов дефектов:
 
