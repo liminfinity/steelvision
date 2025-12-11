@@ -11,6 +11,7 @@ import os
 MODEL_PATHS = {
     "YOLO11s (основная)": "models/yolo11s.onnx",
     "YOLO11n (быстрая)": "models/yolo11n.onnx",
+    "YOLO11m (улучшенная)": "models/yolo11m.onnx",
     "YOLOv8s (baseline)": "models/yolov8s.onnx",
     "YOLOv8n (baseline)": "models/yolov8n.onnx",
 }
